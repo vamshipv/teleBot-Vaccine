@@ -1,0 +1,23 @@
+{
+    "update_id": 988454734,
+    "message": {
+        "message_id": 21,
+        "from": {
+            "id": 724990602,
+            "is_bot": false,
+            "first_name": "Prasad",
+            "last_name": "- ENG17CS0158",
+            "username": "starbug145",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 724990602,
+            "first_name": "Prasad",
+            "last_name": "- ENG17CS0158",
+            "username": "starbug145",
+            "type": "private"
+        },
+        "date": 1622198226,
+        "text": "Vaccine please"
+    }
+}
