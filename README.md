@@ -4,7 +4,7 @@
 <p style="text-align:center;"><b>Hello, Im a Bot.</b></p>
 
 ## API:
-			* [Co-WIN Public APIs](https://apisetu.gov.in/public/api/cowin)
-				- Co-WIN Public APIs to find appointment availabilty and to download vaccination certificates. These APIs are available for use by all third party applications.
-			* [Telegram Bot API](https://core.telegram.org/bots/api/)
-				- The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.
+* [Co-WIN Public APIs](https://apisetu.gov.in/public/api/cowin)
+   - Co-WIN Public APIs to find appointment availabilty and to download vaccination certificates. These APIs are available for use by all third party applications.
+* [Telegram Bot API](https://core.telegram.org/bots/api/)
+   - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.
