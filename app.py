@@ -8,7 +8,7 @@ import apiRequests
 app = Flask(__name__)
 
 # Authentication token
-token = '<token-ID>'
+token = '<tokenID>'
 # https://api.telegram.org/bot<token>/setWebhook?url=<ngrokURL>
 # https://api.telegram.org/bot<token>/setWebhook?url=https://f0f9359a56dd.ngrok.io
 
@@ -38,7 +38,7 @@ def hello_world():
                 else:
                     finalMsg = ""
                     vis = 1
-                    endLine = "--------------------------------------\n"
+                    endLine = "--------------------------------------------------------\n"
                     for slot in slots:
                         if vis == 1:
                             title = "Available Slot for Date: {}\n".format(curDate) + "\tCenter Name: {}\n".format(slot[0]) + "\tAvailability: {}\n".format(slot[1]) + "\tAge limit: {}\n".format(slot[2]) + "\tVaccine: {}\n".format(slot[3])
