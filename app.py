@@ -8,7 +8,7 @@ import apiRequests
 app = Flask(__name__)
 
 # Authentication token
-token = '<tokenID>'
+token = '1853149779:AAHrjUwlISb-VqGFcuK-oTu-pBjhPjhi-lI'
 # https://api.telegram.org/bot<token>/setWebhook?url=<ngrokURL>
 # https://api.telegram.org/bot<token>/setWebhook?url=https://f0f9359a56dd.ngrok.io
 
