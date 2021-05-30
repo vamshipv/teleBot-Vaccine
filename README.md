@@ -1,6 +1,6 @@
 # Co-WIN Telegram BOT
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/>
-<img src="https://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif" width="" height="170px"/><img src="https://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif" width="" height="170px"/><img src="https://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif" width="" height="170px"/><img src="https://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif" width="" height="170px"/><img src="https://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif" width="" height="170px"/>
+<img src="https://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif" width="" height="170px"/> <img src="https://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif" width="" height="170px"/> <img src="https://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif" width="" height="170px"/> <img src="https://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif" width="" height="170px"/>
 <p style="text-align:center;"><b>Hello, Im a Bot.</b></p>
 
 ## API's Used:
