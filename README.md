@@ -8,10 +8,12 @@
    - Co-WIN Public APIs to find appointment availabilty and to download vaccination certificates. These APIs are available for use by all third party applications.
 * [Telegram Bot API](https://core.telegram.org/bots/api/)
    - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.
-
+* [Heroku for Deployment](https://www.heroku.com/)
+   - This website helps us to deploy our server.
+   - For Deployment you need to have active heroku account and Heroku CLI for pushing your code to Heroku Cloud Application.
 ## Requirements:
 ```
-  pip install requests, flask
+  pip install requests, flask, pip, gunicorn
 ```
 
 ## Contributors:
